@@ -4,5 +4,9 @@
 # 忽略名为 cmake-build-debug 的目录
 cmake-build-debug/
 
+.idea/
+demo/
+CMakeLists.txt
+main.cpp
+main.py
 temp
-
